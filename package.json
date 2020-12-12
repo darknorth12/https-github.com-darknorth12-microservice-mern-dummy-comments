@@ -1,0 +1,26 @@
+{
+  "name": "https-github.com-darknorth12-microservice-mern-dummy-comments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darknorth12/https-github.com-darknorth12-microservice-mern-dummy-comments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darknorth12/https-github.com-darknorth12-microservice-mern-dummy-comments/issues"
+  },
+  "homepage": "https://github.com/darknorth12/https-github.com-darknorth12-microservice-mern-dummy-comments#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
